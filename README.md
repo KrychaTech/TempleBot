@@ -24,3 +24,6 @@ If you don't want to self-host this bot, you can invite it to your server [here]
 
 ## Hosting
 This bot already includes the keep_alive function for **FREE** Repl.it hosting, so the only thing you need to do is setup Uptimerobot and upload the files onto your repl project.
+
+## Output of the command t!drawing
+![drawing 1](god-drawing.png)

@@ -3,7 +3,7 @@ TempleBot is a discord bot inspired by TempleOS made by Terry A. Davis. <br>
 Since his works were dedicated to the public domain, this code has been also made public. <br>
 Feel free to change my (horrible) code. <br>
 
-As of january 3th, repl.it has removed legacy website hosting, moving it into a paid feature called "Deployments". as such, if you wish to use this bot you must self host it yourself.
+As of january 3th 2024, repl.it has removed legacy website hosting, moving it into a paid feature called "Deployments". as such, if you wish to use this bot you must self host it yourself.
 <br>
 ## Commands
 | Command                     | Arguments                        | Example       | Example Output                                                                                                                        | Behaviour                                                                                                   |

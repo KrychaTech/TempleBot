@@ -24,6 +24,7 @@ As of january 3th 2024, repl.it has removed legacy website hosting, moving it in
 
 ## Hosting
 This bot already includes the keep_alive function for **FREE** Repl.it hosting, so the only thing you need to do is setup Uptimerobot and upload the files onto your repl project.
+**Update: repl.it has removed legacy hosting, as such this is no longer available. If you wish to run the code now, delete the webserver.py file and remove the keep_alive function from the main file.**
 
 ## Output of the command t!drawing
 ![drawing 1](god-drawing.png)
